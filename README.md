@@ -1,4 +1,4 @@
-# SE104 - Nhóm 18 - Đồ án: Phần mềm quản lý gara ô tô
+# SE104 - Nhóm 1 - Đồ án: Phần mềm quản lý gara ô tô
 ## Thành viên nhóm: 
 + Nguyễn Nhật Thanh - 6351071065 
 + Đinh Kim Yến Nhi - 6351071054
